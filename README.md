@@ -28,6 +28,5 @@
     <img src="https://komarev.com/ghpvc/?username=marcosviniciohd&color=green" alt="marcosviniciohd" /> 
  </div>
   
-<!--<div>
    ![Snake animation](https://github.com/marcosviniciohd/marcosviniciohd/blob/output/github-contribution-grid-snake.svg)
-</div>-->
+
