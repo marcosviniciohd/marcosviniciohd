@@ -1,17 +1,15 @@
-## Hello World! I'm Marcos, welcome!
- <div>
+## Hello World! I'm Marcos, let's code?
+<div>
    <a href="https://github.com/marcosviniciohd">
     <div align="center" width="100%">
       <img width="70%" height="180em" src="https://streak-stats.demolab.com/?user=marcosviniciohd&theme=merko" alt="marcosviniciohd"/>
-      <!--<img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marcosviniciohd&show_icons=true&locale=en&layout=compact&theme=merko" alt="marcosviniciohd"/>-->
-      <!--<img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcosviniciohd&show_icons=true&locale=en&theme=merko" alt="marcosviniciohd"/>-->
-      <img width="49%" height="180em" padding="0" src="https://github-readme-stats.vercel.app/api?username=marcosviniciohd&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-      <img width="41%" height="180em" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciohd&layout=compact&langs_count=7&theme=merko"/>
     </div>
-    <!--<div align="center" width="100%">
-         <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosviniciohd&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-         <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciohd&layout=compact&langs_count=7&theme=merko"/>
-    </div>-->
+    <div align="center" width="100%">
+         <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosviniciohd&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    </div>
+    <div align="center" width="100%">
+         <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciohd&layout=compact&langs_count=7&theme=merko"/>
+    </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
